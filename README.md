@@ -1,4 +1,4 @@
-```plaintext
+
 🖥️ **File Setup**  
 [![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-blue)](https://www.microsoft.com/windows)  
 [![Actual Version](https://img.shields.io/badge/Version-1.0.0-green)](https://github.com/Crypto-wallet-address-generator/.github/releases/)  
